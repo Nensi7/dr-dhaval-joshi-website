@@ -12,7 +12,7 @@ export default function Header() {
     { href: '/about', label: 'About Us' },
     { href: '/services', label: 'Services' },
     { href: '/clinic', label: 'Our Facilities' },
-    { href: '/health-education', label: 'Know your health' },
+    { href: '/health-education', label: 'Know Your Health' },
   ];
 
   return (
