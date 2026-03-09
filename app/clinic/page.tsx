@@ -26,7 +26,7 @@ export default function ClinicPage() {
     },
     {
       id: 5,
-      title: 'Patient Education & Counseling',
+      title: 'Patient Waiting Area',
       description: 'Community health education and preventive cardiology awareness sessions with patients',
       image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-CCXOiKdAbF6mcgLciYhJJkf7wZ6eEb.png',
     },

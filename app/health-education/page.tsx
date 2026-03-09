@@ -160,7 +160,7 @@ export default function HealthEducation() {
       >
         <div className="absolute inset-0 bg-black/50"></div>
         <div className="max-w-6xl mx-auto text-center relative z-10">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Heart Health Education</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Know Your Health</h1>
           <p className="text-xl text-white/90 max-w-2xl mx-auto">
             Understanding risk factors, prevention strategies, and lifestyle modifications for optimal heart health
           </p>
